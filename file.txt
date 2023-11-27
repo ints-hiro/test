@@ -2,7 +2,7 @@
   "now": "2022-11-30T20:52:46.4527425+07:00",
   "result": {
     "summary": {
-      "transactionFee": 9355.6275,
+      "transactionFee": 9354.6275,
       "incomeTax": 1513.265,
       "dividendTax": 217.5,
       "stockDividend": 485,
