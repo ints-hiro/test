@@ -3,7 +3,7 @@
   "result": {
     "summary": {
       "transactionFee": 9354.6275,
-      "incomeTax": 1513.265,
+      "incomeTax": 1513.245,
       "dividendTax": 217.5,
       "stockDividend": 485,
       "cashDividend": 4350,
