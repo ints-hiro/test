@@ -7,7 +7,7 @@
       "dividendTax": 217.5,
       "stockDividend": 485,
       "cashDividend": 4350,
-      "cashDividendAfterTax": 4132.5,
+      "cashDividendAfterTax": 4122.5,
       "tradingValue": 7190385,
       "charge": 11086.3725,
       "tradingValueAfterCharge": 3468567.9475,
